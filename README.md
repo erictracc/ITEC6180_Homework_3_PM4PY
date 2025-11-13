@@ -1,5 +1,7 @@
 # ITEC6180 - Process Mining with PM4Py
 
+By: Eric Traccitto & Samuel Moore
+
 ## Assignment Overview
 This repository contains the submission for **ITEC6180 Homework 3 - Process Mining Analysis** using PM4Py on Emergency Department (ED) hospital data.
 
@@ -28,7 +30,7 @@ This repository contains the submission for **ITEC6180 Homework 3 - Process Mini
 - **`ITEC6180 EDHospital Group A Part1.pdf`** - BPMN diagram documentation
 - **`EDHospital.csv`** - Primary dataset
 
-## 🎯 Assignment Requirements Completed
+## Assignment Requirements Completed
 
 ### Part I: Log Exploration
 - Load ED event log into PM4Py
@@ -54,7 +56,7 @@ This repository contains the submission for **ITEC6180 Homework 3 - Process Mini
 - Generate BPMN models
 - Compare algorithm results
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 ```bash
